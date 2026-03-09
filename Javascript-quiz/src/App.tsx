@@ -29,7 +29,7 @@ function App() {
         </Stack>
 
         <strong style={{ fontSize: '18px', marginBottom: '48px', display: 'block' }}>
-          Do you want to learn React ⚛️? <a style={{ color: 'yellow' }} href='https://github.com/midudev/aprendiendo-react'>Click here!</a>
+          Do you want to learn React ⚛️? <a style={{ color: 'yellow' }} href='https://www.codecademy.com/search?query=react'>Click here!</a>
         </strong>
 
         {questions.length === 0 && <Start />}
