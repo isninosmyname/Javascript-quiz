@@ -36,7 +36,7 @@ function App() {
         {questions.length > 0 && unanswered > 0 && <Game />}
         {questions.length > 0 && unanswered === 0 && <Results />}
 
-        <strong style={{ display: 'block', fontSize: '14px', marginTop: '48px' }}>Developed with TypeScript + Zustand - <a style={{ color: 'yellow' }} href='https://github.com/midudev/aprendiendo-react/tree/master/projects/13-javascript-quiz-con-zustand'>Go to code</a></strong>
+        <strong style={{ display: 'block', fontSize: '14px', marginTop: '48px' }}>Developed with TypeScript + Zustand - <a style={{ color: 'yellow' }} href='https://github.com/isninosmyname/Javascript-quiz/tree/main/Javascript-quiz'>Go to code</a></strong>
 
       </Container>
     </main>
