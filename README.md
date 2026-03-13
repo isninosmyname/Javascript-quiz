@@ -7,8 +7,8 @@ Let's be honest, JavaScript can be weird. (literally) I built this project as a 
 In this project, I used a modern stack that prioritizes performance and a smooth developer experience:
 
 * **React:** I use it a lot of times when I like.
-* **Material UI:** To be able to get icons and writing CSS without havin to create a CSS file.
-* **Zustand:** I was learning zustand. and its also better than Redux
+* **Material UI:** To be able to get icons and writing CSS without having to create a CSS file.
+* **Zustand:** I was learning zustand. and its also better than Redux.
 
 ---
 
